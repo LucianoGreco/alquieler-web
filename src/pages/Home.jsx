@@ -34,7 +34,7 @@ import bañoCortina from "../public/bañoCortina.JPG";
 import ollas from "../public/ollas.JPG";
 import platosVasosTabla from "../public/platosVasosTabla.JPG";
 import cubiertos from "../public/cubiertos.JPG";
-
+//hola
 const Home = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
