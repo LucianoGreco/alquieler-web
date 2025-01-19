@@ -18,7 +18,7 @@ import {
   Modal,
   CloseButton
 } from "../styles/HomeStyles"; // Importa los estilos desde la carpeta styles
-// Actualizacion
+// Actualizacion.
 import mesaMusica from "../assets/mesaMusica.JPG";
 import cocinaMesada from "../assets/cocinaMesada.JPG";
 import cocina from "../assets/cocina.JPG";
