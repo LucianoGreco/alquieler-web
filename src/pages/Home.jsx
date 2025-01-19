@@ -19,22 +19,22 @@ import {
   CloseButton
 } from "../styles/HomeStyles"; // Importa los estilos desde la carpeta styles
 // Actualizacion.
-import mesaMusica from "../assets/mesaMusica.JPG";
-import cocinaMesada from "../assets/cocinaMesada.JPG";
-import cocina from "../assets/cocina.JPG";
-import calefon from "../assets/calefon.JPG";
-import aireAcondicionado from "../assets/aireAcondicionado.JPG";
-import calefactor from "../assets/calefactor.JPG";
-import habitacionCamaGrande from "../assets/habitacionCamaGrande.JPG";
-import chifonierVentanaCaloventor from "../assets/chifonierVentanaCaloventor.JPG";
-import roperoAcolchadosAlmohadas from "../assets/roperoAcolchadosAlmohadas.JPG";
-import habitacion2camasChicas from "../assets/habitacion2camasChicas.JPG";
-import anteBaño from "../assets/anteBaño.JPG";
-import inodoroBidet from "../assets/inodoroBidet.JPG";
-import bañoCortina from "../assets/bañoCortina.JPG";
-import ollas from "../assets/ollas.JPG";
-import platosVasosTabla from "../assets/platosVasosTabla.JPG";
-import cubiertos from "../assets/cubiertos.JPG";
+import mesaMusica from "../public/mesaMusica.JPG";
+import cocinaMesada from "../public/cocinaMesada.JPG";
+import cocina from "../public/cocina.JPG";
+import calefon from "../public/calefon.JPG";
+import aireAcondicionado from "../public/aireAcondicionado.JPG";
+import calefactor from "../public/calefactor.JPG";
+import habitacionCamaGrande from "../public/habitacionCamaGrande.JPG";
+import chifonierVentanaCaloventor from "../public/chifonierVentanaCaloventor.JPG";
+import roperoAcolchadosAlmohadas from "../public/roperoAcolchadosAlmohadas.JPG";
+import habitacion2camasChicas from "../public/habitacion2camasChicas.JPG";
+import anteBaño from "../public/anteBaño.JPG";
+import inodoroBidet from "../public/inodoroBidet.JPG";
+import bañoCortina from "../public/bañoCortina.JPG";
+import ollas from "../public/ollas.JPG";
+import platosVasosTabla from "../public/platosVasosTabla.JPG";
+import cubiertos from "../public/cubiertos.JPG";
 
 const Home = () => {
   const [selectedImage, setSelectedImage] = useState(null);
